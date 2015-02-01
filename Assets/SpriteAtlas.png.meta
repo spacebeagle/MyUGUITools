@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: f63c7ee11fccf9b408aa92c95a409261
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIPanel
+    21300002: SF Window
+    21300004: Icon2
+    21300006: Icon1
+    21300008: Unity Logo Unlit
+    21300010: SF Title
+    21300012: UIButtonDefault
+    21300014: SF Button
+    21300016: UIToggleButton
+    21300018: Icon3
+    21300020: DottedRoundedRect
+    21300022: UIButtonCorner
+    21300024: SF Generic
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UIPanel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SF Window
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icon2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 237
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icon1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 367
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Logo Unlit
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SF Title
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIButtonDefault
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SF Button
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 66
+        width: 230
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIToggleButton
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icon3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 260
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DottedRoundedRect
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 237
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+    - name: UIButtonCorner
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 66
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SF Generic
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
