@@ -6,7 +6,6 @@ using System.IO;
 using System.Linq;
 using System;
 
-
 [InitializeOnLoad]
 public class StartupUGUISimpleTextureModifier {
     static StartupUGUISimpleTextureModifier() {
